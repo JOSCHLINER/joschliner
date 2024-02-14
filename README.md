@@ -1,5 +1,5 @@
 # Hello there 👋🤓:
-I am an enthusiastic coder who is just trying to improve his skills by doing all kinds of different stuff. On the programming side, I can work with SQL, PHP, and Python on what I find a comfortable level. Although I have also written websites with your basic stack consisting of CSS, HTML, and plain JavaScript. Besides that have I worked with a bunch with Debian-based Linux before. Where I have got to test many of the tools that "*come with it*", Docker, Bash Scripts, Webservers, etc..Before all that I played around a lot with microcontrollers, (mostly Arduinos) but that is more on the electronics side of the spectrum than programming.
+I am an enthusiastic coder who is just trying to improve his skills by doing all kinds of different stuff. On the programming side, I can work with SQL, PHP, and Python on what I find a comfortable level. Although I have also written websites with your basic stack consisting of CSS, HTML, and plain JavaScript. Besides that have I worked with a bunch with Debian-based Linux before. Where I have got to test many of the tools that "*come with it*", Docker, Bash Scripts, Webservers, etc. .Before all that I played around a lot with microcontrollers, (mostly Arduinos) but that is more on the electronics side of the spectrum than programming.
 
 <br>
 <a href="https://leetcode.com/JOSCHLINER/">
